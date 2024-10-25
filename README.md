@@ -1,4 +1,4 @@
-# Student-management-system
+# Student management system
 Student Management system developed using C++ that provides some features like storing name, roll no, and marks and calculating the average and generating grades based on it
 
 
